@@ -1,4 +1,4 @@
-<h3>Hi 👋🏻</h3>
+<h2>Hi 👋🏻</h2>
 
 <p>I'm a third year informatics engineering student, passionate about Software Engineering and UI/UX Design.</p>
 
