@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">🌱 My Work Experience</h4>
+<h3 align="left">🌱 My Work Experience</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">☘️ Organizational Experience</h4>
+<h3 align="left">☘️ Organizational Experience</h3>
 
 ###
 
