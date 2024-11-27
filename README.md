@@ -12,4 +12,22 @@
 
 ###
 
+<h5>🌱 My Work Experience</h5>
+
+###
+
+<p>• Software Engineer & UI/UX Designer @ MediVal</p>
+<p>• Software Engineering Laboratory Assistant @ STEI ITB</p>
+<p>• Software Engineer Intern @ Purple Foxes Italy</p>
+<p>• UI/UX Designer Intern @ Datare</p>
+
+###
+
+<h5>☘️ Organizational Experience</h5>
+
+###
+
+<p>• Chief Technology Officer @ Anmategra KM ITB</p>
+<p>• Director of Operations @ KSEP ITB</p>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/atqiyahaydar15/)
