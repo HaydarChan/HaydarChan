@@ -4,7 +4,7 @@
 
 ###
 
-<h2>Hi 👋🏻</h2>
+<h1>Hi 👋🏻</h1>
 
 ###
 
@@ -12,10 +12,7 @@
 
 ###
 
-<h5>🌱 My Work Experience</h5>
-
-###
-
+<h4>🌱 My Work Experience</h4>
 <p>• Software Engineer & UI/UX Designer @ MediVal</p>
 <p>• Software Engineering Laboratory Assistant @ STEI ITB</p>
 <p>• Software Engineer Intern @ Purple Foxes Italy</p>
@@ -23,10 +20,7 @@
 
 ###
 
-<h5>☘️ Organizational Experience</h5>
-
-###
-
+<h4>☘️ Organizational Experience</h4>
 <p>• Chief Technology Officer @ Anmategra KM ITB</p>
 <p>• Director of Operations @ KSEP ITB</p>
 
