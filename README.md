@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">• Software Engineer & UI/UX Designer @ MediVal<br>• Software Engineering Laboratory Assistant @ STEI ITB<br>• Software Engineer Intern @ Purple Foxes Italy<br>• UI/UX Designer Intern @ Datare</p>
+<p align="left">• Software Engineer & UI/UX Designer @ MediVal<br>• Software Engineering Laboratory Assistant @ STEI ITB<br>• Software Engineer & UI/UX Designer Intern @ Purple Foxes Italy<br>• UI/UX Designer Intern @ Datare</p>
 
 ###
 
