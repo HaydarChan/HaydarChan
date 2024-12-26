@@ -14,3 +14,17 @@
 | Software Engineering Laboratory Assistant | STEI ITB                 | ITB, Indonesia     | Assistant        | Sep 2024 - Present |
 | Software Engineer & UI/UX Designer Intern | Purple Foxes             | Italy              | Internship       | Jul 2024 - Dec 2024 |
 | UI/UX Designer Intern                     | Datare                   | Indonesia                  | Internship       | Nov 2023 - Jan 2024 |
+
+###
+
+
+### 🏆 My Achievements
+
+- 3rd Place, INTERFEST Web Design Competition 2024
+- Finalist, Turnamen Sains Data Nasional 2024
+- Finalist, INTUITIVA UI/UX Competition 2024
+- Champion, Codefest Hackathon Competition 2023
+- Finalist, Technology Euphoria UI/UX Competition 2023
+- Champion, Forkafest UI/UX Design Competition 3.0
+
+###
