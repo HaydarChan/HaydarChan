@@ -2,7 +2,7 @@
 
 ###
 
-#### I'm a third-year computer science student @ ITB, passionate about Software Engineering and UI/UX Design.
+#### I'm a third-year computer science student @ ITB, passionate about Software Engineering and UI/UX Design. My expertise lies in full stack web development, utilizing Next.js, Golang, and Python. I also have experience in building apps with Java and C#.
 
 ###
 
