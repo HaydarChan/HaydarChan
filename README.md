@@ -11,7 +11,3 @@
 ###
 
 <h5 align="left">I'm a third-year Computer Science student at Bandung Institute of Technology. I love designing and coding software.</h5>
-
-###
-
-<h4 align="left">🌱 My Work Experience</h4>
