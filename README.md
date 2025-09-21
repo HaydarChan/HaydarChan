@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="left">Hi there! 👋🏻</h1>
+<h1 align="left">Hi There! 👋🏻</h1>
 
 ###
 
