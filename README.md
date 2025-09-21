@@ -12,8 +12,7 @@
 <h3 align="left">🚀 Product-Minded Engineer & Designer</h3>
 
 <p align="left">
-I'm an Informatics student at ITB who loves the complete product development cycle: understanding users, modeling problems, designing experiences, and shipping reliable code.
-</p>
+I'm a final-year Computer Science student at ITB (one of Indonesia's top 3 universities). I'm passionate about creating beautiful, user-centered digital experiences through product design and front-end engineering. Beyond that, I’m also deeply interested in automation testing & QA, exploring the future of blockchain & Web3, and bringing ideas to life through motion design and branding.</p>
 
 ### 🎯 What I Do
 - **Product Engineering**: Building user-centric solutions from concept to deployment
