@@ -1,4 +1,4 @@
-A final-year Computer Science student — I just design and code.
+A final-year Computer Science student, I just love design and code.
 
 **Portfolio** · https://atqiya.space  
 **LinkedIn** · https://linkedin.com/in/atqiyahaydar  
