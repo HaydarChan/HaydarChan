@@ -1,1 +1,1 @@
-A final-year Computer Science student, I just love design and code.
+Informatics Engineer Gradute from ITB
