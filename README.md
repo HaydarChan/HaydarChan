@@ -1,1 +1,1 @@
-Informatics Engineer Gradute from ITB
+Informatics Engineering Gradute from ITB
