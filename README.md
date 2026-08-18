@@ -1,1 +1,1 @@
-Informatics Engineering Gradute from ITB
+Informatics Engineering Gradute from Bandung Instite of Technology 🇮🇩
