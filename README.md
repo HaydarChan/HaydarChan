@@ -1,1 +1,1 @@
-Informatics Engineering Gradute from Bandung Instite of Technology 🇮🇩
+Informatics Engineering Gradute from Bandung Institute of Technology 🇮🇩
