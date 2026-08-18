@@ -21,11 +21,11 @@ class Developer:
 
 atqiya = Developer(
     name="Atqiya",
-    role=["Software Engineer (Backend-Heavy)", "Design Engineer"],
+    role=["Software Engineer", "Design Engineer"],
     location="Indonesia",
     education="Informatics Engineering graduate from Bandung Institute of Technology",
     interests=["Software Engineering", "AI", "UX Design", "Stock Market"],
-    languages=["Go", "Java", "Python", "TypeScript", "JavaScript"],
+    languages=["Go", "Java", "Python", "TypeScript", "JavaScript", "Dart"],
 )
 
 print(atqiya.greeting())
